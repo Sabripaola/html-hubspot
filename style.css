@@ -112,3 +112,138 @@ img.logo{
   margin-left:10px;
 }
 /* /Nav */
+.striscia{
+  width: 100%;
+  height: 100px;
+  background: #2D3E50;
+}
+.frase{
+  width:80%;
+  float: left;
+}
+.frase p{
+  color: white;
+  width: 100%;
+  font-size: 12px;
+  line-height: 20px;
+  margin-top: 30px;
+}
+.striscia .bianco{
+  background: white;
+  border-radius: 5px;
+}
+.bianco{
+  margin-top: 30px;
+}
+.bianco p{
+  font-size: 13px;
+  color: #33475b;
+  line-height: 40px;
+  padding: 0px 30px;
+  margin-top:
+}
+.principale{
+  width: 100%;
+  height: 600px;
+  background-image: linear-gradient(to right, #09A7BF, rgba(18, 182, 207, 0.55));
+  color: white;
+  padding-top: 10px;
+  border-bottom: 4px solid #33475b;
+}
+.contenitore{
+  margin-left: 10px;
+  width: 500px;
+}
+h1{
+  font-size: 45px;
+  font-weight: 800;
+  margin: 50px 20px;
+}
+.principale p{
+  text-align: left;
+}
+.principale .button{
+  background: white;
+  color: #33475b;
+  margin: 50px 0px;
+  border-radius: 4px;
+  width: 200px;
+}
+.button > p{
+  padding: 16px 10px;
+  font-size: 15px;
+  font-weight: 400;
+  text-align: center;
+}
+.principale .mini-paragraph{
+  font-size: 9px;
+  width: 150px;
+}
+.cubo{
+  width: 100%;
+  height: 1500px;
+  background: #F5F8FA;
+  color: #33475b;
+}
+.cubo > img{
+  height: 200px;
+  margin-top: 5%;
+  margin-left: 40%;
+}
+.cubo > h1{
+  text-align: center;
+  margin-bottom: 20px;
+}
+.cubo > p{
+  text-align: center;
+  margin: auto;
+  line-height: 1.6;
+  width: 800px;
+}
+.info_top{
+  width: 70%;
+  height: 300px;
+  max-width: 1000px;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  background: white;
+  border-radius: 3px;
+  box-shadow: 0 0 11px #eaf0f6;
+}
+.it_cont{
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+  max-width: 1000px;
+}
+.it_cont > div{
+  float: left;
+}
+.it_left{
+  width: 43%;
+}
+.info_top img{
+  width: 200px;
+  margin-left: 100px;
+  margin-top: 30px;
+}
+.info_top > p{
+  width: 200px;
+  margin-left: 100px;
+  margin-top: 30px;
+}
+.itl_btn{
+  background: #ff7a59;
+  width:150px;
+  border-radius: 3px;
+  margin-left: 120px;
+  margin-top: 20px;
+  text-align: center;
+}
+.itl_btn p{
+  padding: 10px;
+}
+h1{
+  margin: 50px 0px;
+}
